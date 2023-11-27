@@ -3,7 +3,7 @@
 <h3 align="center"><i><b>>_ Junior Software Engineering Student | KSIU | Egypt</b></i></h3>
 
 ## *>_Education & Experience & Certifications*.
-- #### ***I'm currently***
+- ***I'm currently***
   - *Junior* [**Software Engineering**](https://ksiu.edu.eg/el-tur/field-of-computer-science-and-engineering/computer-science/computer-science-program/software-engineering/) *Student* [***@KSIU***](https://ksiu.edu.eg/).
   - *Student* in [***Google IT Automation with Python Professional Certificate***](https://www.coursera.org/professional-certificates/google-it-automation)
   - *Student* Intern in the [***Introduction to AI and its Applications***](https://impact-edu.net/courses/introduction-to-ai-and-it-s-applications) *Programme* [***Zewail City of Science and Technology***](https://www.zewailcity.edu.eg/).
