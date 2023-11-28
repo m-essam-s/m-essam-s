@@ -2,6 +2,13 @@
 
 <h3 align="center"><i><b>>_ Junior Software Engineering Student | KSIU | Egypt</b></i></h3>
 
+## *>_ Skills & Tools*.
+<p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,nodejs,js,html,css,mysql,bash,vim,git,github,vscode"/>
+  </a>
+</p>
+
 ## *>_Education & Experience & Certifications*.
 - ***I'm currently***
   - *Junior* [**Software Engineering**](https://ksiu.edu.eg/el-tur/field-of-computer-science-and-engineering/computer-science/computer-science-program/software-engineering/) *Student* [***@KSIU***](https://ksiu.edu.eg/).
