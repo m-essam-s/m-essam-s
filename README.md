@@ -2,20 +2,9 @@
 
 <h3 align="center"><i><b>>_ Junior Software Engineering Student | KSIU | Egypt</b></i></h3>
 
-<!-- ## *>_ Skills & Tools*.
-<p align="center" >
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,nodejs,js,html,css,mysql,bash,vim,git,github,vscode"/>
-  </a>
-</p> -->
-
-<!-- ## *>_Education & Experience & Certifications*. -->
 ## *>_Education*.
 - ***I'm currently***
   - *Junior* [**Software Engineering**](https://ksiu.edu.eg/el-tur/field-of-computer-science-and-engineering/computer-science/computer-science-program/software-engineering/) *Student* [***@KSIU***](https://ksiu.edu.eg/).
-  <!-- - *Student* in [***Google IT Automation with Python Professional Certificate***](https://www.coursera.org/professional-certificates/google-it-automation)
-  - *Student* Intern in the [***Introduction to AI and its Applications***](https://impact-edu.net/courses/introduction-to-ai-and-it-s-applications) *Programme* [***Zewail City of Science and Technology***](https://www.zewailcity.edu.eg/). -->
-- ***How to reach me:*** [***sir.m.essam.g@gmail.com***](mailto:sir.m.essam.g@gmail.com). 
 
 ## *>_Contact_Info*.
 
@@ -35,7 +24,11 @@
   <a href="https://www.instagram.com/m_essam_s">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
   </a>
+
 </p>
+
+<h4 align="center"><i><b>>_ How to reach me: <a href=mailto:sir.m.essam.g@gmail.com>sir.m.essam.g@gmail.com</a>.</b></i></h4>
+
 
 ## *>_GitHub_Stats*.
 
@@ -45,5 +38,5 @@
 ## *>_Have_Fun*. 
 
 <p align="center">
-    <img alt="contribution snake" width="95%" src="https://raw.githubusercontent.com/YosefJoo/YosefJoo/github-contribution-snake-output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" width="100%" src="https://raw.githubusercontent.com/YosefJoo/YosefJoo/github-contribution-snake-output/github-contribution-grid-snake.svg" />
 </p>
