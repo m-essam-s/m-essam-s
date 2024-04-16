@@ -34,9 +34,3 @@
 
 | ![Mohamed Essam's Github Stats](https://github-readme-stats.vercel.app/api?username=m-essam-s&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) | ![Mohamed Essam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-essam-s&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) | ![Mohamed Essam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-essam-s&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) |
 |:---:|:---:|:---:|
-
-## *>_Have_Fun*. 
-
-<p align="center">
-    <img alt="contribution snake" width="100%" src="https://raw.githubusercontent.com/YosefJoo/YosefJoo/github-contribution-snake-output/github-contribution-grid-snake.svg" />
-</p>
