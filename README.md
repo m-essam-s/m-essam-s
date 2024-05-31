@@ -1,12 +1,15 @@
 <h1 align="center"><i><b>>_ Hi, I'm Mohamed Essam Saeed</b></i></h1>
 
+
+## *>_Education*
+
 <h3 align="center"><i><b>>_ Junior Software Engineering Student | KSIU | Egypt</b></i></h3>
+<!-- - ***I'm currently***
+  - *Junior* [**Software Engineering**](https://ksiu.edu.eg/el-tur/field-of-computer-science-and-engineering/computer-science/computer-science-program/software-engineering/) *Student* [***@KSIU***](https://ksiu.edu.eg/). -->
 
-## *>_Education*.
-- ***I'm currently***
-  - *Junior* [**Software Engineering**](https://ksiu.edu.eg/el-tur/field-of-computer-science-and-engineering/computer-science/computer-science-program/software-engineering/) *Student* [***@KSIU***](https://ksiu.edu.eg/).
+## *>_Contact_Info*
 
-## *>_Contact_Info*.
+<h4 align="center"><i><b>>_ How to reach me: <a href=mailto:sir.m.essam.g@gmail.com>sir.m.essam.g@gmail.com</a>.</b></i></h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-essam">
@@ -27,10 +30,9 @@
 
 </p>
 
-<h4 align="center"><i><b>>_ How to reach me: <a href=mailto:sir.m.essam.g@gmail.com>sir.m.essam.g@gmail.com</a>.</b></i></h4>
+<h4 align="center"><i><b>>_ My portfolio: <a href=https://m-essam-s.github.io/Portfolio>m-essam-s.github.io/Portfolio</a>.</b></i></h4>
 
-
-## *>_GitHub_Stats*.
+## *>_GitHub_Stats*
 
 | ![Mohamed Essam's Github Stats](https://github-readme-stats.vercel.app/api?username=m-essam-s&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) | ![Mohamed Essam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-essam-s&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117) | ![Mohamed Essam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-essam-s&stroke=ffffff&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true) |
 |:---:|:---:|:---:|
