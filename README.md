@@ -30,7 +30,7 @@
 
 </p>
 
-<h4 align="center"><i><b>>_ My portfolio: <a href=https://m-essam-s.github.io/Portfolio>m-essam-s.github.io/Portfolio</a>.</b></i></h4>
+<h4 align="center"><i><b>>_ My portfolio: <a href=https://m-essam-s.github.io>m-essam-s.github.io</a>.</b></i></h4>
 
 ## *>_GitHub_Stats*
 
