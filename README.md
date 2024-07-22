@@ -1,11 +1,12 @@
-<h1 align="center"><i><b>>_ Hi, I'm Mohamed Essam Saeed</b></i></h1>
+# >_ Hi, I'm Mohamed Essam Saeed
 
+> Aspiring software engineer with a focus on integrating AI models. Seeking to apply my skills in Machine Learning and Deep Learning to contribute to innovative projects.
 
 ## *>_Education*
 
-<h3 align="center"><i><b>>_ Junior Software Engineering Student | KSIU | Egypt</b></i></h3>
-<!-- - ***I'm currently***
-  - *Junior* [**Software Engineering**](https://ksiu.edu.eg/el-tur/field-of-computer-science-and-engineering/computer-science/computer-science-program/software-engineering/) *Student* [***@KSIU***](https://ksiu.edu.eg/). -->
+### >_ Senior Software Engineering Student | KSIU | Egypt
+
+- ***I'm currently*** *Senior* [**Software Engineering**](https://ksiu.edu.eg/el-tur/field-of-computer-science-and-engineering/computer-science/computer-science-program/software-engineering/) *Student* @ [***KSIU***](https://ksiu.edu.eg/).
 
 ## *>_Contact_Info*
 
