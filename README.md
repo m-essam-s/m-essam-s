@@ -39,4 +39,5 @@
 |![.](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=m-essam-s&theme=github_dark)|![.](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=m-essam-s&theme=github_dark)|![.](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m-essam-s&theme=github_dark)|![.](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m-essam-s&theme=github_dark&utcOffset=3)|
 |:---:|:---:|:---:|:---:|
 
-<img align="center" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-essam-s&theme=github_dark" alt="GitHub Profile Summary Card"/>
+<img align="center" width="99%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-essam-s&theme=github_dark" alt="GitHub Profile Summary Card"/>
+ 
