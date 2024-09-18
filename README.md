@@ -40,4 +40,3 @@
 |:---:|:---:|:---:|:---:|
 
 <img align="center" width="99%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-essam-s&theme=github_dark" alt="GitHub Profile Summary Card"/>
- 
