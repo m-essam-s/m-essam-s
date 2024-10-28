@@ -10,6 +10,15 @@
 
 - >_ My Digital Space: [m-essam-s.github.io](https://m-essam-s.github.io)
 
+## >_Skills&Tools
+
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,dart,git,github,mysql,postgres,firebase"/>
+</p>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=md,html,css,js,ts,react,next,flutter,vite,vscode"/>
+</p>
+
 ## >_Social_Info
 
 <p align="center">
