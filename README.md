@@ -16,7 +16,7 @@
   <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,dart,git,github,mysql,postgres,firebase"/>
 </p>
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=md,html,css, tailwind,js,ts,react,next,flutter,vite,vscode"/>
+  <img align="center" src="https://skillicons.dev/icons?i=md,html,css,tailwind,js,ts,react,next,flutter,vite,vscode"/>
 </p>
 
 ## >_Social_Info
