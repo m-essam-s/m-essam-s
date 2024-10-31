@@ -4,26 +4,17 @@
 
 > ### *Aspiring software engineer with a focus on integrating AI models. Seeking to apply my skills in Machine Learning and Deep Learning to contribute to innovative projects.*
 
-## >_Contact_Info
-
-- >_ How to reach me: [sir.m.essam.g@gmail.com](mailto:sir.m.essam.g@gmail.com)
-
-- >_ My Digital Space: [m-essam-s.github.io](https://m-essam-s.github.io)
-
-## >_Skills&Tools
+## >_Contact_Social_Info
 
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,dart,git,github,mysql,postgres,firebase"/>
-</p>
-<p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=md,html,css,tailwind,js,ts,react,next,flutter,vite,vscode"/>
-</p>
-
-## >_Social_Info
-
-<p align="center">
+  <a href="mailto:sir.m.essam.g@gmail.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
+  </a>
   <a href="https://www.linkedin.com/in/m-essam">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+  </a>
+  <a href="https://m-essam-s.github.io">
+    <img align="center" src="https://github.com/m-essam-s/We-FullStack-WebDev/blob/master/assets/img/Dark-300-300px.png?raw=true" height="40" width="40" />
   </a>
   <a href="https://twitter.com/m_essam_s">
     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" height="40" width="40" />
@@ -35,9 +26,17 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" />
   </a>
   <a href="https://www.instagram.com/m_essam_s">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" width="40" />
   </a>
+</p>
 
+## >_Skills&Tools
+
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=c,cpp,java,py,dart,git,github,mysql,postgres,firebase"/>
+</p>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=md,html,css,tailwind,js,ts,react,next,flutter,vite,vscode"/>
 </p>
 
 ## *>_GitHub_Stats*
