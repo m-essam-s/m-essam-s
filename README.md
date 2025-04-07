@@ -2,6 +2,7 @@
 
 ## >_Senior [Software Engineering](https://ksiu.edu.eg/el-tur/computer-science/computer-science-program/software-engineering/) Student @ [KSIU](https://ksiu.edu.eg/), Egypt
 
+> ### *Senior SE Student @ KSIU | Full Stack Developer Next.js & Flutter | Passionate about building scalable web & mobile apps | AI/ML enthusiast | Currently working on real-time smart infrastructure projects*
 > ### *Aspiring software engineer with a focus on integrating AI models. Seeking to apply my skills in Machine Learning and Deep Learning to contribute to innovative projects.*
 
 ## >_Contact_Social_Info
