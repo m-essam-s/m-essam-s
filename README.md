@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/m-essam">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
   </a>
-  <a href="https://messams.github.io">
-    <img align="center" src="https://github.com/messams/We-FullStack-WebDev/blob/master/assets/img/Dark-300-300px.png?raw=true" height="40" width="40" />
-  </a>
   <a href="https://twitter.com/m_essam_s">
     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" height="40" width="40" />
   </a>
